@@ -1,4 +1,4 @@
-# A007 - Template de Prática
+# Variáveis - Template de Prática
 
 **Vamos utilizar esse repositório para as práticas da aula!**
 
